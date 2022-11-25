@@ -1,0 +1,4 @@
+grpc:
+  port: 6565
+  shutdownGrace: 30
+
